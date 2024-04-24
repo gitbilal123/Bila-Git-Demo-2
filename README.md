@@ -1,6 +1,10 @@
 # Bila-Git-Demo-2
-This is my Second Git Repository
+This is my Second Git Repository.
+<br>
 Digital Signal Processing.
-Analog lab
-FTP Protocol
-Real Time Operating System
+<br>
+Analog lab.
+<br>
+FTP Protocol.
+<br>
+Real Time Operating System.
